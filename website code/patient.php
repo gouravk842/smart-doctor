@@ -121,7 +121,7 @@ if(isset($_POST['upload']))
         ?>
         <script>
                 alert("File uploaded.");
-                window.open("www.google.com", "_blank");
+                window.open("https://www.google.com", "_blank");
                 const note = document.getElementById('note');
                 note.innerHTML = "Wait till timer stops ... Please Don't close window.";
 

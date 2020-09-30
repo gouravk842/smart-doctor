@@ -1,6 +1,6 @@
 <?php
 
-$server="192.168.43.179:3306";
+$server="localhost:3306";
 $user="root";
 $password="Gourav@123";
 $database="smartdoctor";
